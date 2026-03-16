@@ -1,0 +1,24 @@
+# AWS Credentials - DO NOT UPLOAD
+*.csv
+backend/agents/credentials/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Node.js
+node_modules/
+dist/
+.eslintcache
+
+# Project specific
+.gemini/
+*.log
+.DS_Store
+task.md
+implementation_plan.md
+walkthrough.md
+brain/

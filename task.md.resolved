@@ -1,0 +1,24 @@
+# Task: AegisCore Implementation
+
+- [ ] Phase 1: Foundation and Infrastructure [/]
+    - [ ] Initialize FAST project structure
+    - [ ] Define AWS CDK stack (Cognito, Bedrock AgentCore, etc.)
+    - [ ] Setup React container with Cloudscape Design System
+- [ ] Phase 2: Multi-Agent Orchestration Engine
+    - [ ] Configure Supervisor Agent (Nova 2 Pro)
+    - [ ] Implement task breakdown and routing logic
+- [ ] Phase 3: UI Automation Agent (Nova Act)
+    - [ ] Implement Nova Act sub-agent
+    - [ ] Implement `human_input_callbacks` (approve, ui_takeover)
+    - [ ] Setup containerized headless browser
+- [ ] Phase 4: Data Grounding and MCP Servers
+    - [ ] Create `/mcp_servers` directory
+    - [ ] Implement `nova_act_mcp_server.py`
+    - [ ] Configure internal SQL mock data cross-referencing
+- [ ] Phase 5: Voice Interface Integration (Nova Sonic)
+    - [ ] Integrate Nova Sonic into frontend
+    - [ ] Setup bidirectional WebSocket for voice
+    - [ ] Link vocal approvals to Nova Act callbacks
+- [ ] Phase 6: Verification and Final Polish
+    - [ ] Test end-to-end multi-agent flows
+    - [ ] Verify voice-controlled legacy automation

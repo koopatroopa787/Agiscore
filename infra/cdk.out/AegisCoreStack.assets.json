@@ -1,0 +1,21 @@
+{
+  "version": "52.0.0",
+  "files": {
+    "d699d2923a38377b00d931cc34596b6464379320be74bd8e525acd19b924f7b7": {
+      "displayName": "AegisCoreStack Template",
+      "source": {
+        "path": "AegisCoreStack.template.json",
+        "packaging": "file"
+      },
+      "destinations": {
+        "797795454023-us-east-1-f732d131": {
+          "bucketName": "cdk-hnb659fds-assets-797795454023-us-east-1",
+          "objectKey": "d699d2923a38377b00d931cc34596b6464379320be74bd8e525acd19b924f7b7.json",
+          "region": "us-east-1",
+          "assumeRoleArn": "arn:${AWS::Partition}:iam::797795454023:role/cdk-hnb659fds-file-publishing-role-797795454023-us-east-1"
+        }
+      }
+    }
+  },
+  "dockerImages": {}
+}

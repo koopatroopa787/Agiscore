@@ -1,0 +1,44 @@
+{
+  "/AegisCoreStack/UserPoolId": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "UserPoolId"
+    }
+  ],
+  "/AegisCoreStack/UserPoolClientId": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "UserPoolClientId"
+    }
+  ],
+  "/AegisCoreStack/BootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BootstrapVersion"
+    }
+  ],
+  "/AegisCoreStack/CheckBootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CheckBootstrapVersion"
+    }
+  ],
+  "/AegisCoreStack/AegisCoreUserPool/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AegisCoreUserPoolFABCA92E"
+    }
+  ],
+  "/AegisCoreStack/CDKMetadata/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadata"
+    }
+  ],
+  "/AegisCoreStack/AegisCoreUserPool/AegisCoreUserPoolClient/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AegisCoreUserPoolAegisCoreUserPoolClient0CABADF7"
+    }
+  ]
+}

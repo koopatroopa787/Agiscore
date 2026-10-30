@@ -36,6 +36,7 @@ const App: React.FC = () => {
         }
         
         setSupervisorLogs([]); 
+        setIsTaskCompleted(false);
         addSupervisorLog(`COMMAND: "${text}"`);
         
         if (parsedReasoning && parsedReasoning.steps) {
